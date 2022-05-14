@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gbengar
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning javascript
+- 👀 I’m am a fullstack web developer
+- 🌱 I’m am open to new opportunities and challenges for software engineering
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me on twitter @gbengaosh
 
