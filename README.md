@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Gbengar
-- 👀 I’m am a fullstack web developer
-- 🌱 I’m am open to new opportunities and challenges for software engineering
-- 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me on twitter @gbengaosh
+### Hi there 👋, My name is Gbenga 
+#### I am a FullStack Engineer && Data Analyst
+![I am a FullStack Engineer && Data Analyst](https://arturssmirnovs.github.io/github-profile-readm)
 
-<!---
-Gbengar/Gbengar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am banker turned software engineer, I am passionate about the prospect of using IT to improve the financial service industry. Learning from the achievement from the past
+2 decades and hoping to input my fingerprint in the sand of time.
+I am a Fullstack engineer && Data Analyst. Some of the echnologies i enjoy working on includes ReactJS, Jamstack (Javascript, API + Markup), SQL etc.
+
+Skills: REACT / JS / HTML / CSS and more
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
