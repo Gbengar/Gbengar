@@ -1,4 +1,4 @@
-![](Header/github-header-image.png))
+![](Header/github-header-image.png)
 
 I am a trained banker turn Engineer, passionate about the prospect of using IT to improve the financial service industry especially in 3rd world countries without the full access to internet. I have been Learning from the accomplishment and advances from the past 2 decades and hoping to input my fingerprint in the sand of time. I am also currently learning Data Analyst and Python. Some of the echnologies i enjoy working on includes ReactJS, Jamstack (Javascript, API + Markup), SQL etc.
 
